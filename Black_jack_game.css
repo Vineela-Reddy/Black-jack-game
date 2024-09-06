@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(38, 128, 0, 0.695);
+    text-align: center;
+
+}
+
+h1 {
+    color: gold;
+    font-size: 3rem;
+}
+
+p {
+    font-size: 2rem;
+    color: white;
+    /* font-style: italic; */
+}
+
+button {
+    font-size: 2rem;
+    border-radius: 2px;
+    border: none;
+    width: 250px;
+    color: rgb(38, 128, 0);
+    background-color: gold;
+    padding: 5px 20px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+#message-el {
+    color: white;
+    font-style: italic;
+}
